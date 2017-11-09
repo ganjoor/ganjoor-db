@@ -1,4 +1,4 @@
-# Ganjoor MySQL Docker
+# گنجور رومیزی
 
-For more information, please visit the [API repo](https://github.com/ganjoor/ganjoor-api) or the [Project Roadmap](https://github.com/ganjoor/roadmap).
+Imported from [SourceForge](https://sourceforge.net/projects/ganjoor/).
 
